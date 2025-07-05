@@ -63,7 +63,6 @@ To develop a **real-time digital banking simulation tool** with robust functiona
 
 ### 📦 Step 1: Clone the Repository
 
-```bash
 git clone https://github.com/your-username/bank-account-manager.git
 cd bank-account-manager
 🧪 Step 2: Install Dependencies
